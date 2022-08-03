@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "decouple": "^1.0.1",
+    "discord": "^0.8.2",
+    "discord.py": "^1.0.0",
+    "git": "^0.1.5",
+    "requests": "^0.3.0"
+  }
+}
